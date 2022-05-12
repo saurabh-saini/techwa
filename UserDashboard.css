@@ -1,0 +1,13 @@
+p {
+  color: blue;
+}
+@media only screen and (max-width: 770px) {
+  p {
+    color: red;
+  }
+}
+@media only screen and (max-width: 992px) {
+  #rightPanel {
+    margin-left: 0 !important;
+  }
+}

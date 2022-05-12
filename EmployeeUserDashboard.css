@@ -1,0 +1,29 @@
+@media only screen and (max-width: 770px) {
+  p {
+    color: red;
+  }
+  #rightPanel {
+    padding: 1rem !important;
+  }
+}
+@media only screen and (max-width: 992px) {
+  #rightPanel {
+    margin-left: 0 !important;
+  }
+}
+p {
+  margin: 0;
+  padding: 0;
+}
+.dj {
+  background-color: #ffffff;
+  border-color: #878787 !important;
+  border-width: 1px !important;
+}
+.border1 {
+  border-color: #000000 !important;
+  border-width: 1px !important;
+}
+.nameBox {
+  padding-left: 5rem !important;
+}
